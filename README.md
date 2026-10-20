@@ -5,8 +5,8 @@
 </center>
 
 # About Me:
-Hey! My name is Iwahu, I am an Minecraft Bukkit Plugin Developer and
-I'm currently working as Lead Developer on LucidNetwork Server
+Hey! My name is Iwahu. I am a Minecraft Bukkit Plugin Developer 
+and currently working as the Lead Developer for LucidNetwork Server + Owner of the project Backlion.
 
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
