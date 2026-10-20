@@ -23,12 +23,5 @@ I'm currently working as Lead Developer on LucidNetwork Server
 [![EvrenYonetim](https://img.shields.io/badge/Evren_Yönetim_Paneli-yellow)](https://github.com/Iwahukkit/evrenyonetimpaneli)
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Iwahukkit&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=netIwahut&theme=dark&hide_border=false)<br/>
 
-# Contact Me
-
-**Discord: Iwahu.**
-
-**I'm on liberachat. If you want to talk with me come to the #lucidnetwork**
-
-**I can't use discord that much because I don't have a good computer and I love IRC**
