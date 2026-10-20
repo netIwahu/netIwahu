@@ -18,5 +18,5 @@ I'm currently working as Lead Developer on LucidNetwork Server
 [![CURSE](https://img.shields.io/badge/Curseforge-grey?logo=Curseforge)](https://www.curseforge.com/members/iwahu/projects)
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=netIwahut&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=netIwahu&theme=dark&hide_border=false)<br/>
 
