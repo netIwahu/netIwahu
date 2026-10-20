@@ -17,11 +17,6 @@ I'm currently working as Lead Developer on LucidNetwork Server
 [![STEAM](https://img.shields.io/badge/Steam-grey?logo=steam)](https://steamcommunity.com/id/Iwahu/)
 [![CURSE](https://img.shields.io/badge/Curseforge-grey?logo=Curseforge)](https://www.curseforge.com/members/iwahu/projects)
 
-# My Project's:
-
-[![StuckHelper](https://img.shields.io/badge/StuckHelper-brightgreen)](https://www.curseforge.com/minecraft/bukkit-plugins/stuckhelper)
-[![EvrenYonetim](https://img.shields.io/badge/Evren_Yönetim_Paneli-yellow)](https://github.com/Iwahukkit/evrenyonetimpaneli)
-
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=netIwahut&theme=dark&hide_border=false)<br/>
 
