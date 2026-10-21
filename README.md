@@ -13,7 +13,7 @@ and currently working as the Lead Developer for LucidNetwork Server + Owner of t
 [![Lua](https://img.shields.io/badge/Lua-5.1-blue?logo=Lua)](https://www.lua.org)
 [![CSS](https://img.shields.io/badge/CSS-blue?logo=css)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![HTML5](https://img.shields.io/badge/HTML-5-blue?logo=html5)]()
-[![JS](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)]()
+[![JS](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)]()
 
 
 # GitHub Stats:
