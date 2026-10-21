@@ -15,7 +15,7 @@ and currently working as the Lead Developer for LucidNetwork Server + Owner of t
 [![HTML5](https://img.shields.io/badge/HTML-5-blue?logo=html5)]()
 [![JS](https://img.shields.io/badge/JavaScript-gray?logo=JavaScript)]()
 [![LUAU](https://img.shields.io/badge/Luau-gray?logo=luau)]()
-[![PHP](https://img.shields.io/badge/PHP-gray?logo=html5)]()
+[![PHP](https://img.shields.io/badge/PHP-gray?logo=php)]()
 
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=netIwahu&theme=dark&hide_border=false)<br/>
