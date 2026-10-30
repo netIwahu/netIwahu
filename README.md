@@ -5,7 +5,7 @@
 </center>
 
 # About Me:
-Hey! My name is Iwahu. I'm a Minecraft Bukkit Plugin Developer 
+Hey! My name is Iwahu. I'm an Developer and I worked on LucidNetwork
 
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
