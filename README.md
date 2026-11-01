@@ -7,6 +7,10 @@
 # About Me:
 Hey! My name is Iwahu. I'm an Developer and I worked on LucidNetwork
 
+# Support:
+DM me on Discord
+`Discord: .iwahu`
+
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
 [![Lua](https://img.shields.io/badge/Lua-5.1-blue?logo=Lua)](https://www.lua.org)
