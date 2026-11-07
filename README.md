@@ -7,10 +7,10 @@
 # About Me:
 ### Hey! My name is Iwahu. I'm an Developer.
 ### I'm working on project named Milkkit.
-#### Where am I work and working:
-##### LucidNetwork(retired)
-##### Blizzlion(still)
-##### Milkkit(still)
+## Where do I work, and where am I working?
+*LucidNetwork(retired)*
+**Blizzlion(still)**
+**Milkkit(still)**
 
 # Support:
 ### Join to the Milkkit and open a support ticket
