@@ -8,8 +8,8 @@
 Hey! My name is Iwahu. I'm an Developer and I worked on LucidNetwork
 
 # Support:
-DM me on Discord
-`Discord: .iwahu`
+Join to the Milkkit and open a support ticket
+[Milkkit](https://discord.gg/kt3Ap6gSU3)
 
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
