@@ -5,12 +5,13 @@
 </center>
 
 # About Me:
-Hey! My name is Iwahu. I'm an Developer and I worked on LucidNetwork
+Hey! My name is Iwahu. I'm an Developer.
+I'm working on project named Milkkit.
 
 # Support:
 Join to the Milkkit and open a support ticket
 
-[Milkkit](https://discord.gg/kt3Ap6gSU3)
+[Milkkit Discord](https://discord.gg/kt3Ap6gSU3)
 
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
