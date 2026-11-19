@@ -6,9 +6,7 @@
 
 # About Me:
 Hey! My name is Iwahu.
-
 I'm an Software Developer.
-
 I'm working on project named Milkkit and owner of it.
 
 # Tech Stack:
