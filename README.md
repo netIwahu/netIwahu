@@ -5,8 +5,11 @@
 </center>
 
 # About Me:
-Hey! My name is Iwahu. I'm an Developer.
-I'm working on project named Milkkit.
+Hey! My name is Iwahu.
+
+I'm an Software Developer.
+
+I'm working on project named Milkkit and owner of it.
 
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
