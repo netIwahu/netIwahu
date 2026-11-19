@@ -5,19 +5,8 @@
 </center>
 
 # About Me:
-### Hey! My name is Iwahu. I'm an Developer.
-### I'm working on project named Milkkit.
-## Where do I work, and where am I working?
-*LucidNetwork(retired)*
-
-**Blizzlion(still)**
-
-**Milkkit(still)**
-
-# Support:
-### Join to the Milkkit and open a support ticket
-
-[Milkkit Discord](https://discord.gg/kt3Ap6gSU3)
+Hey! My name is Iwahu. I'm an Developer.
+I'm working on project named Milkkit.
 
 # Tech Stack:
 [![Java](https://img.shields.io/badge/Java-25-blue?logo=Java)](https://www.java.com)
